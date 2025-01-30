@@ -16,10 +16,10 @@ body {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  background: rgb(192, 212, 229);
+  background: #e8e2c8;
 }
 button {
-  background: rgb(192, 212, 229);
+  background: #e8e2c8;
   border: 0px solid #201d1c;
   border-radius: 10px;
   box-shadow: 0 0 6px #201d1c;
