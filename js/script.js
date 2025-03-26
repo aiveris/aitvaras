@@ -101,7 +101,7 @@ function add_player_10() {
 }
 function add_player_11() {
   db.collection("a1").add({
-    todo: "Karolis Bliodnieks 11",
+    todo: "Daivaras Lebednykas 11",
   });
 }
 function add_player_12() {
@@ -176,7 +176,7 @@ function add_player_69() {
 }
 function add_player_77() {
   db.collection("a1").add({
-    todo: "Donatas Bilius 77",
+    todo: "Rokas Žičiūnas 77",
   });
 }
 function add_player_82() {
