@@ -136,7 +136,7 @@ function add_player_19() {
 }
 function add_player_23() {
   db.collection("a1").add({
-    todo: "Justas Sobolevskis 23",
+    todo: "Rokas Žičiūnas 23",
   });
 }
 function add_player_24() {
